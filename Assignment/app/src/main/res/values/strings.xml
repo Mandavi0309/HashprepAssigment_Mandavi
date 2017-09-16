@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="network_error">Please check your network connectivity.</string>
+    <string name="generic_error">Please try again later.</string>
+    <string name="no_item_found">No more repository available.</string>
+    <string name="repo_list">Repository List</string>
+
+</resources>
